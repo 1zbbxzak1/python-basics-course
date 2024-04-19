@@ -1,0 +1,16 @@
+ERROR:root:Error in function example_function: Простая ошибка.
+ERROR:root:Error in function another_function: division by zero
+ERROR:root:Error in function example_function: Простая ошибка.
+ERROR:root:Error in function another_function: division by zero
+2023-12-17 13:44:41.647929: Ошибка в функции another_function: division by zero
+2023-12-17 13:47:06.106545: Ошибка в функции another_function: division by zero
+2023-12-17 13:47:06.124596: Ошибка в функции another_function: division by zero
+2023-12-17 13:47:25.309480: Ошибка в функции another_function: division by zero
+2023-12-17 13:47:25.314506: Ошибка в функции another_function: division by zero
+2023-12-17 13:47:25.314710: Ошибка в функции another_function: division by zero
+2023-12-17 13:48:57.469974: Ошибка в функции another_function: division by zero
+2023-12-17 13:48:57.498144: Ошибка в функции another_function: division by zero
+2023-12-17 13:48:57.498525: Ошибка в функции another_function: division by zero
+2023-12-17 13:49:10.784622: Ошибка в функции another_function: division by zero
+2023-12-17 13:49:10.785541: Ошибка в функции another_function: division by zero
+2023-12-17 13:49:10.787450: Ошибка в функции another_function: division by zero
